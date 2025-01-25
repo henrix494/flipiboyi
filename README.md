@@ -71,7 +71,3 @@ export default App;
 ## Styles
 
 The library includes a CSS module for styling the `Counter` component. The styles are defined in `styles.module.css` and are automatically applied to the component.
-
-## License
-
-This project is licensed under the MIT License.
