@@ -1,0 +1,17 @@
+.container {
+  height: 100px;
+  background-color: black;
+  border-radius: 20px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 2rem;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.container .count {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
